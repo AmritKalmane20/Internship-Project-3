@@ -123,9 +123,7 @@ The following screenshot shows the IP configuration of the Kali Linux attacker m
 
 The following screenshot shows the IP configuration of the hardened Ubuntu Server.
 
-<p align="center">
-  <img src="ScreenShot/32-ubuntu-server-ip-configuration.png" alt="Ubuntu Server IP Configuration" width="800">
-</p>
+![Ubuntu Server IP Configuration](ScreenShot/06-ubuntu-server-network-configuration.png)
 
 ---
 
@@ -351,7 +349,7 @@ The Ubuntu Server was successfully configured as a scanning target.
 ### Scan Task Configuration
 
 <p align="center">
-  <img src="ScreenShot/40-openvas-scan-task-created.png" alt="OpenVAS Scan Task Configuration" width="900">
+  <img src="ScreenShot/40-openvas-scan-task-created.png" alt="OpenVAS Scan Task Created" width="900">
 </p>
 
 ---
