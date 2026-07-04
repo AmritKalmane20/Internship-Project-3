@@ -1,7 +1,3 @@
-Yes. Since your OpenVAS scan did **not complete**, the current report promises results that you don't have. For academic integrity, it's better to upgrade the report so it looks more professional while accurately reflecting what you completed. You can still achieve a high-quality submission by documenting the setup, hardening, configuration, and the feed synchronization issue.
-
-Here's a polished version of your report structure.
-
 ---
 
 # Project 3 – Secure Linux Server Setup & Hardening
